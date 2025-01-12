@@ -50,7 +50,7 @@ defaults:
       share: true
       related: true
 
-site.locale: "en-UK"
+locale: "en-UK"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
