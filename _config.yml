@@ -39,6 +39,9 @@ plugins:
   - jekyll-include-cache
 
 logo: "/docs/assets/images/logo.png"
+header:
+  image: /docs//assets/images/hhead.jpg
+
 
 
 defaults:
