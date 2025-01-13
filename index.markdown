@@ -14,4 +14,3 @@ header:
       url: "mailto:rhwyfocaergybi@gmail.com"
 consent: "https://docs.google.com/forms/d/e/1FAIpQLSf6uWSjHYmK6nv0aIPdKx-RXpDN-R-7Iy33QusrgKHnicPHrg/viewform?usp=header"
 ---
-{% link {{ content.consent }} %}
