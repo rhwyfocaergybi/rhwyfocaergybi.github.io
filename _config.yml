@@ -38,7 +38,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-logo: "/docs/assets/images/logo.png"
+logo: "/docs/assets/images/CybiRowing.png"
 header:
   image: /docs//assets/images/hhead.jpg
 
