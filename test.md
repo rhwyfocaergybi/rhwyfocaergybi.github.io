@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: Beresford Adams"
   actions:
     - label: "More Info"
-      url: "https://rhwyfocaergybi.github.io"
+      url: "mailto:someone@example.com"
 
 ---
 <h3>Test Page</h3>
