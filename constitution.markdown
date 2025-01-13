@@ -8,20 +8,20 @@ title: Constitution
 ---
 CYFANSODDIAD CLWB RHWYFO CAERGYBI/HOLYHEAD ROWING CLUB CONSTITUTION
 
-1.	NAME
+1. NAME
 
 THE Club shall be called	'Clwb Rhwyfo Caergybi/Holyhead Rowing Club'
 
 (hereinafter called the Club).
 
-2.	AFFILITATION
+2. AFFILITATION
 
 The Club may, as appropriate, be affiliated as necessary to various Governing Bodies that include:-
 
 Welsh Sea Rowing Association; the fore mentioned being the Governing Body of Sea Rowing. The Club may also affiliate to other Governing Bodies as the activities of the Club develop.
 
 
-3.	AIMS AND OBJECTIVES
+3. AIMS AND OBJECTIVES
 
 3.1.	The objectives of the Club shall be to provide opportunities, primarily
 for adults who are resident in Caergybi/Holyhead and the surrounding area, to participate, and experience rowing activities.
