@@ -4,7 +4,7 @@
 
 layout: home
 author_profile: true
-title: test
+title: Home
 excerpt: "Croeso/Welcome. Please contact us for more info"
 header:
   overlay_image: /docs/assets/images/hhead.jpg
