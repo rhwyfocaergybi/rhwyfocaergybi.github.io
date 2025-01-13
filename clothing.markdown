@@ -22,7 +22,7 @@ Lycra shorts/leggings and T-shirts are optimal as they are good wicking fabrics,
 
 <p>Long hair should be tied up not loose, this could be a potential hazard if you capsize. There has been recent fatality where a woman’s hair has been caught in the runners of the seat and sadly, she drowned.</p>
 
-<h3>Summer recommendations<h3>
+<h3>Summer recommendations</h3>
 <ul><li>Sunscreen</li>
 <li>UV protective sun glasses</li>
 <li>Base ball hat, Bandana, buff</li>
