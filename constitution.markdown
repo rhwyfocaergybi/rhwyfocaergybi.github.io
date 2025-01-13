@@ -28,7 +28,7 @@ for adults who are resident in Caergybi/Holyhead and the surrounding area, to pa
 
 3.2.	The aims and objectives of the Club shall be consistent with the furthering of equal opportunities for all groups in sea rowing. The Club shall adopt a Welsh language Policy. All markings and non-technical information shall be bilingual. Technical and essential safety information and directives shall be in Welsh and English.
 
-4.	MEMBERSHIPS
+4	MEMBERSHIPS
 
 4.1.	The Club shall consist of the officers, and its members.
 
@@ -38,7 +38,7 @@ for adults who are resident in Caergybi/Holyhead and the surrounding area, to pa
 4.3.	In accepting membership, a person agrees to abide by the Constitution of the Club and in the rulings of the Club Executive Committee.
 
 
-5.	MEMBERSHIP  FEES
+5	MEMBERSHIP  FEES
 
 5.1.	Membership fees shall be stipulated by a General Meeting distinguishing between those members who are in full-time employment, and members who are unemployed or in full-time education.
 
@@ -47,7 +47,7 @@ for adults who are resident in Caergybi/Holyhead and the surrounding area, to pa
 5.3.	The Club Executive Committee may decide upon other charges or subscriptions at its discretion and will explain any such changes at the next General Meeting.
 
 
-6.	OFFICERS
+6	OFFICERS
 
 6.1	The officers of the Club shall be:
 Chairman, Vice-Chairman,  Secretary, Treasurer, Safety Officer, and up to four co-opted members who will be proposed by any member and authorised to the Committee by the Executive Committee's majority vote. If necessary there may also be a Vulnerable adults/Child Protection Officer (who can be shared with another club) who may advise the committee in child protection matters but has no voting rights.
@@ -60,7 +60,7 @@ Chairman, Vice-Chairman,  Secretary, Treasurer, Safety Officer, and up to four c
 6.4.	The Club shall adopt various Policies and Procedures that are in keeping with the requirements of the Governing Body to which the Club is affiliated. A Primary Policy shall be the Child Protection Policy as published by Welsh Government (All Wales Child Protection Procedures and Policies) and those published by the Welsh Sea Rowing Association and the British Rowing Association.
 
 
-7.	EXECUTIVE  COMMITTEE
+7	EXECUTIVE  COMMITTEE
 
  
 7.1.	The management and well being of the Club shall be vested in the Executive Committee (hereinafter called the Executive Committee).
@@ -83,7 +83,7 @@ Chairman, Vice-Chairman,  Secretary, Treasurer, Safety Officer, and up to four c
 7.9	The executive committee may employ professional  officers at its discretion.
 
 
-8.0	FINANCE
+8	FINANCE
 
 
 8.1	All funds raised by, or on behalf of the Club, shall be applied to further the objectives of the Club and for no other purpose.
