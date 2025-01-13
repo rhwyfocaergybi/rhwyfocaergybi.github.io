@@ -1,16 +1,16 @@
 main:
-  - title: "Clothing"
+  - title: "What to wear"
     url: /clothing.html
   - title: "Posts"
     url: /year-archive/
   - title: "About"
     url: /about/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
-    target: _blank
+  - title: "Links"
+    url: /links/
+    #  - title: "Pages"
+    #url: /page-archive/
+ # - title: "Collections"
+ #   url: /collection-archive/
+ # - title: "External Link"
+ #   url: https://google.com
+ #   target: _blank
