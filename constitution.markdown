@@ -14,7 +14,7 @@ THE Club shall be called	'Clwb Rhwyfo Caergybi/Holyhead Rowing Club'
 
 (hereinafter called the Club).
 
-2. AFFILITATION
+2. AFFILIATION
 
 The Club may, as appropriate, be affiliated as necessary to various Governing Bodies that include:-
 
