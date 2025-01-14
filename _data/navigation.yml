@@ -1,6 +1,6 @@
 main:
   - title: "What to wear"
-    url: /clothing.html
+    url: /clothing/
   - title: "Posts"
     url: /posts/
   - title: "About"

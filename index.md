@@ -15,9 +15,14 @@ header:
     - label: "Join/Taster"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSf6uWSjHYmK6nv0aIPdKx-RXpDN-R-7Iy33QusrgKHnicPHrg/viewform?usp=header"
 consent: "https://docs.google.com/forms/d/e/1FAIpQLSf6uWSjHYmK6nv0aIPdKx-RXpDN-R-7Iy33QusrgKHnicPHrg/viewform?usp=header"
+#classes: wide
+
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
 This is an exciting time for Caergybi/Holyhead! We're forming a new rowing club in what is potentially one of the best venues in the UK for coastal rowing.
 
-Holyhead has a rich maritime tradition and rowing races took place regularly between the crews of the mail boats! More recently, the Sea Cadet unit have had much success in "pulling" races in the ASCs and now the Trinity class of boats. If you've previously rowed these boats, we'd love to hear from you. One thing is for certain, the celtic longboats are much nicer to row than the old ASCs!.
+Holyhead has a rich maritime tradition and rowing races took place regularly between the crews of the mail boats! More recently, the Sea Cadet unit have had much success in "pulling" races in the ASCs and now the Trinity class of boats. If you've previously rowed these boats, we'd love to hear from you. One thing is for certain, the celtic longboats are much nicer to row than the old ASCs!
 
 We want to re-establish this amazing sport, initially with the celtic longboats and share it with anyone from the local area who'd like to have a go. Contact us for more details.

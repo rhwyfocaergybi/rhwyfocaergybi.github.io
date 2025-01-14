@@ -1,11 +1,10 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: single
 author_profile: true
 title: Clothing
-
+permalink: /clothing/
 ---
 <h3>Suitable clothing</h3>
 <p>We row all year round, so selecting the right gear for each season is essential to ensure you stay comfortable in training sessions.
