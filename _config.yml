@@ -42,6 +42,8 @@ logo: "/docs/assets/images/ClwbRhwyfoCaergybiLogo.png"
 header:
   image: /docs//assets/images/hhead.jpg
 
+
+
 defaults:
   # _posts
   - scope:
