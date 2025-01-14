@@ -2,7 +2,7 @@ main:
   - title: "What to wear"
     url: /clothing.html
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
   - title: "About"
     url: /about/
   - title: "Links"
