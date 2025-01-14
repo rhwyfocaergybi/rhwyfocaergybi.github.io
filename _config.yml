@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-include: ["_pages"]
+#include: ["_pages"]
 
 # Build settings
 #theme: minima
@@ -43,8 +43,6 @@ plugins:
 logo: "/docs/assets/images/ClwbRhwyfoCaergybiLogo.png"
 header:
   image: /docs//assets/images/hhead.jpg
-
-
 
 defaults:
   # _posts
