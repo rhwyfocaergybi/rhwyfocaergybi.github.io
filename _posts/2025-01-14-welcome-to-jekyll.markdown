@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Welcome to Clwb Rhwyfo Caergybi/Holyhead Rowing Club!"
-date:   2025-01-14 115:46:05 +0000
+date:   2025-01-14 15:46:05 +0000
 categories: rowing update
 ---
 <p>Things are currently in their very early stages. We've been in touch with some interested parties in Holyhead, but we'd welcome hearing from you if you have any interest in helping us set the club up.</p>
