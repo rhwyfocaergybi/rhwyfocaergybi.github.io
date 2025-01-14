@@ -27,8 +27,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-include: ["_pages"]
-
 # Build settings
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
@@ -55,15 +53,6 @@ defaults:
       comments: true
       share: true
       related: true
-
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
 
 locale: "en-UK"
 
