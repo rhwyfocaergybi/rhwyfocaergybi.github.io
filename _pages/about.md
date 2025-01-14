@@ -2,6 +2,8 @@
 layout: single
 title: About
 permalink: /about/
+sidebar:
+  nav: "sidenav"
 ---
 
 The Club is being formed by keen experienced rowers from other clubs on Ynys Mon who want to expand the sport to the Holyhead area.

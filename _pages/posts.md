@@ -3,7 +3,8 @@ layout: single
 author_profile: true
 title: posts
 permalink: /posts/
-
+sidebar:
+  nav: "sidenav"
 ---
 <ul>
   {% for post in site.posts %}

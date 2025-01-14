@@ -5,6 +5,9 @@
 layout: single
 author_profile: true
 title: Constitution
+permalink: /constitution/
+sidebar:
+  nav: "sidenav"
 ---
 CYFANSODDIAD CLWB RHWYFO CAERGYBI/HOLYHEAD ROWING CLUB CONSTITUTION
 

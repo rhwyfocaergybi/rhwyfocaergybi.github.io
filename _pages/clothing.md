@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 title: Clothing
 permalink: /clothing/
+sidebar:
+  nav: "sidenav"
 ---
 <h3>Suitable clothing</h3>
 <p>We row all year round, so selecting the right gear for each season is essential to ensure you stay comfortable in training sessions.

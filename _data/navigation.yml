@@ -14,3 +14,12 @@ main:
  # - title: "External Link"
  #   url: https://google.com
  #   target: _blank
+sidenav:
+  - title: Getting Started
+    children:
+      - title: "Clothing"
+        url: /clothing/
+      - title: "Technique"
+        url: /technique/
+      - title: "Location"
+        url: /location/
