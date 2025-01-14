@@ -11,3 +11,4 @@ location:
 <p>We're looking for a secure location to keep a boat and store oars and life-jackets. If you have any suggestions or if you have a place you'd be willing for us to use, please let us know by email at rwyfocaergybi@gmail.com</p>
 
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf6uWSjHYmK6nv0aIPdKx-RXpDN-R-7Iy33QusrgKHnicPHrg/viewform?usp=header">Taster Row/Join</a></p>
+{% google_map %}
