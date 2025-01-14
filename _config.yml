@@ -40,7 +40,7 @@ plugins:
   - jekyll-maps
 maps:
   google:
-    api_key: <KEY>
+    api_key: ${{ secrets.GOOGLEAPI }}
 
 logo: "/docs/assets/images/ClwbRhwyfoCaergybiLogo.png"
 header:
