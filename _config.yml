@@ -37,6 +37,10 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-maps
+maps:
+  google:
+    api_key: AIzaSyC9Z3aRyayQDGucxtv7hXbCNScaOyvhoC8
 
 logo: "/docs/assets/images/ClwbRhwyfoCaergybiLogo.png"
 header:
