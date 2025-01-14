@@ -15,7 +15,6 @@ header:
     - label: "Join/Taster"
       url: "https://docs.google.com/forms/d/e/1FAIpQLSf6uWSjHYmK6nv0aIPdKx-RXpDN-R-7Iy33QusrgKHnicPHrg/viewform?usp=header"
 consent: "https://docs.google.com/forms/d/e/1FAIpQLSf6uWSjHYmK6nv0aIPdKx-RXpDN-R-7Iy33QusrgKHnicPHrg/viewform?usp=header"
-toc: true
 ---
 This is an exciting time for Caergybi/Holyhead! We're forming a new rowing club in what is potentially one of the best venues in the UK for coastal rowing.
 
