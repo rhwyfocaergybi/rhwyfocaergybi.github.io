@@ -38,6 +38,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-maps
+  
 maps:
   google:
     api_key: ${{ secrets.GOOGLEAPI }}
