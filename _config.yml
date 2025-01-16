@@ -42,7 +42,6 @@ plugins:
 maps:
   google:
     api_key: ${{ secrets.GOOGLEAPI }}
-    #api_key: AIzaSyCCeoAtxRQRoOsIuhqAlz8XuyYJqDjsBQU
 
 logo: "/docs/assets/images/ClwbRhwyfoCaergybiLogo.png"
 header:
