@@ -38,10 +38,11 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-maps
-  
+
 maps:
   google:
-    api_key: ${{ secrets.GOOGLEAPI }}
+    #api_key: ${{ secrets.GOOGLEAPI }}
+    api_key: AIzaSyCCeoAtxRQRoOsIuhqAlz8XuyYJqDjsBQU
 
 logo: "/docs/assets/images/ClwbRhwyfoCaergybiLogo.png"
 header:
