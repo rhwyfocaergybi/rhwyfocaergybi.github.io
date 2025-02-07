@@ -33,14 +33,14 @@ We want to re-establish this amazing sport, initially with the celtic longboats 
 
   {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
   {% for year in postsByYear %}
-
-  {% for post in site.posts %}
+      <div class ="archive-year">
+        <a href="{{ site.baseurl }}/pages/archives-y#{{ year.name }}">
+        {{ year.name }}</a>
+      </div>
   ...
-    {% unless post.next %}
-    ...
-      {% assign year = post.date | date: '%Y' %}
-      {% assign n_year = post.next.date | date: '%Y' %}
-    ...
-    {% endunless %}
+    <ul class="archive-month">
+      {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%m'" %}
+      ...
+    </ul>
   ...
   {% endfor %}
