@@ -7,6 +7,12 @@ title: Location
 permalink: /location/
 sidebar:
   nav: "sidenav"
+location:
+  - title: Holyhead Sailing Club
+    image: hsclogosm.png
+    url: https://www.holyheadsailingclub.co.uk/
+    latitude: 53.317852
+    longitude: -4.641376
 ---
-Not sure exactly where in Holyhead yet!
+We're based out of Holyhead Sailing Club in Newry Beach. {% google_map zoom ="15"%}
 
