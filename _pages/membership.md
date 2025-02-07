@@ -8,7 +8,7 @@ permalink: /membership/
 sidebar:
   nav: "sidenav"
 ---
-All prospective members are welcome to have up to two "taster" sessions before committing to joining the club. New members will need to become at least social members of the Holyhead Sailing Club (£60 a year) as well as joining the rowing club which costs £20 per year. This fee covers membership of Welsh Sea Rowing and includes personal insurance. Existing members of the sailing club only need to join the rowing club.
+All prospective members are welcome to have up to two "taster" sessions before committing to joining the club. New members will need to become at least "associate" members of the Holyhead Sailing Club (£60 a year) as well as joining the rowing club which costs £20 per year. This fee covers membership of Welsh Sea Rowing and includes personal insurance. Existing members of the sailing club only need to join the rowing club.
 
 To have either a taster row or to join, please fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6uWSjHYmK6nv0aIPdKx-RXpDN-R-7Iy33QusrgKHnicPHrg/viewform">this Google form</a>. We will then contact you with more information and send you a link to join a "Spond" group which is how sessions are organised.
 
