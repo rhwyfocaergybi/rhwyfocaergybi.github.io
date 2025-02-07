@@ -1,4 +1,6 @@
 main:
+  - title: "Membership"
+    url: /membership/
   - title: "What to wear"
     url: /clothing/
   - title: "Posts"
@@ -23,3 +25,5 @@ sidenav:
         url: /technique/
       - title: "Location"
         url: /location/
+      - title: "Membership"
+        url: /membership/
