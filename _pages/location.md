@@ -17,5 +17,7 @@ location:
 #  latitude: 53.317852
 #  longitude: -4.641376
 ---
-We're based out of Holyhead Sailing Club in Newry Beach. {% google_map zoom ="15"%}
+We're based out of Holyhead Sailing Club in Newry Beach.
+
+{% google_map zoom ="15"%}
 
