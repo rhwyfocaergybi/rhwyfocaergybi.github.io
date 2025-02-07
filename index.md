@@ -18,8 +18,6 @@ consent: "https://docs.google.com/forms/d/e/1FAIpQLSf6uWSjHYmK6nv0aIPdKx-RXpDN-R
 #classes: wide
 sidebar:
   nav: "sidenav"
-
-
 toc: true
 toc_label: "Contents"
 toc_icon: "cog"
@@ -32,3 +30,17 @@ Holyhead has a rich maritime tradition and rowing races took place regularly bet
 <img src="/docs/assets/images/rowforgaz.jpg" alt="Row For Gaz Image" width="500">
 
 We want to re-establish this amazing sport, initially with the celtic longboats and share it with anyone from the local area who'd like to have a go. Contact us for more details...
+
+  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
+  {% for year in postsByYear %}
+
+  {% for post in site.posts %}
+  ...
+    {% unless post.next %}
+    ...
+      {% assign year = post.date | date: '%Y' %}
+      {% assign n_year = post.next.date | date: '%Y' %}
+    ...
+    {% endunless %}
+  ...
+  {% endfor %}
