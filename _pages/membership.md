@@ -12,7 +12,7 @@ All prospective members are welcome to have up to two "taster" sessions before c
 
 To have either a taster row or to join, please fill in <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6uWSjHYmK6nv0aIPdKx-RXpDN-R-7Iy33QusrgKHnicPHrg/viewform">this Google form</a>. We will then contact you with more information and send you a link to join a "Spond" group which is how sessions are organised.
 
-Information on what to wear for rowing is on <a href="../clothing">this</a> page
+Information on what to wear for rowing is on <a href="/clothing/">this</a> page
 
 Once a member, we charge £2 every time they go rowing by quarterly direct debit through GoCardless
 
