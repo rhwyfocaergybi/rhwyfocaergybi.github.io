@@ -7,7 +7,7 @@ author_profile: true
 title: Home
 excerpt: "Croeso/Welcome. Please contact us for more info"
 header:
-  overlay_image: /docs/assets/images/hhead.jpg
+  overlay_image: /docs/assets/images/firstrow.gif
   caption: "Photo credit: Beresford Adams"
   actions:
     - label: "Contact Us"
