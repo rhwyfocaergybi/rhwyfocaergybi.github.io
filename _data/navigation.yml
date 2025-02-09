@@ -7,6 +7,8 @@ main:
     url: /posts/
   - title: "About"
     url: /about/
+  - title: "Location"
+    url: /location/
   - title: "Links"
     url: /links/
     #  - title: "Pages"
