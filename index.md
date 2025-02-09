@@ -8,7 +8,7 @@ title: Home
 excerpt: "Croeso/Welcome. Please contact us for more info"
 header:
   overlay_image: /docs/assets/images/firstrow.gif
-  caption: "Photo credit: Beresford Adams"
+  caption: ""
   actions:
     - label: "Contact Us"
       url: "mailto:rhwyfocaergybi@gmail.com"
