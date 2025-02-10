@@ -10,8 +10,10 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+  background-color: $header-color;
 
   &__inner-wrap {
+    background-color: $header-color;
     @include clearfix;
     margin-inline: auto;
     padding: 1em;
