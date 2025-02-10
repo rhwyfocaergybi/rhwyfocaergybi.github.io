@@ -7,7 +7,7 @@ author_profile: true
 title: Home
 excerpt: "Croeso/Welcome. Please contact us for more info"
 header:
-  overlay_image: /docs/assets/images/firstrow2.gif
+  overlay_image: /docs/assets/images/firstrow3.gif
   caption: ""
   actions:
     - label: "Contact Us"
