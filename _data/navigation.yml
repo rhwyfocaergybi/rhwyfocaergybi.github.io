@@ -29,3 +29,6 @@ sidenav:
         url: /location/
       - title: "Membership"
         url: /membership/
+      - title: "Weather"
+        url: /weather/
+        
