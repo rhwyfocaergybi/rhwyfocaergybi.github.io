@@ -4,7 +4,7 @@
 layout: single
 author_profile: false
 title: Weather
-permalink: /membership/
+permalink: /weather/
 sidebar:
   nav: "sidenav"
 ---
