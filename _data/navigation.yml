@@ -9,10 +9,11 @@ main:
     url: /about/
   - title: "Location"
     url: /location/
+  - title: "Weather"
+    url: /weather/
   - title: "Links"
     url: /links/
-    #  - title: "Pages"
-    #url: /page-archive/
+
  # - title: "Collections"
  #   url: /collection-archive/
  # - title: "External Link"
@@ -31,4 +32,6 @@ sidenav:
         url: /membership/
       - title: "Weather"
         url: /weather/
+      - title: "Links"
+        url: /links/
         
