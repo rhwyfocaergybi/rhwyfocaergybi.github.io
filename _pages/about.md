@@ -9,11 +9,13 @@ sidebar:
 The Club is being formed by keen experienced rowers from other clubs on Ynys Mon who want to expand the sport to the Holyhead area.
 
 Our committee is:
-Tudur Owen (Chair)
-Osian Williams
-Ron Kelsall
-Emma Blackburn
-Simon Burnell
+<ul>
+<li>Tudur Owen (Chair)</li>
+<li>Osian Williams</li>
+<li>Ron Kelsall</li>
+<li>Emma Blackburn</li>
+<li>Simon Burnell</li>
+</ul>
 
 <h3>Celtic Longboats</h3>
 The history of the design goes back to the 1970s. Rowing boats have been raced on the Welsh coast for many years in what are traditionally called pulling races. There was always strong competition between the local fishing communities and some of the races offered cash prizes as an added incentive. In 1978 Tom Sutton found the remains of an Irish Curragh washed up on the beach. The Irish Curragh is a wooden framed traditional boat covered with skin or canvas and then painted with tar to make it watertight. Tom thought it would make a good race boat and with a couple of friends set about re-skinning the boat and making it seaworthy. The first race they entered was at Solva, against a fleet of other traditional boats, and they came second.
