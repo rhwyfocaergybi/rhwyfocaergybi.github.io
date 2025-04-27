@@ -3,6 +3,8 @@ main:
     url: /membership/
   - title: "What to wear"
     url: /clothing/
+  - title: "Club kit"
+    url: /kit/
   - title: "Posts"
     url: /posts/
   - title: "About"
@@ -22,14 +24,20 @@ main:
 sidenav:
   - title: Getting Started
     children:
-      - title: "Clothing"
+      - title: "Membership"
+        url: /membership/
+      - title: "What to wear"
         url: /clothing/
       - title: "Technique"
         url: /technique/
+      - title: "Club kit"
+        url: /kit/
+      - title: "Posts"
+        url: /posts/
+      - title: "About"
+        url: /about/
       - title: "Location"
         url: /location/
-      - title: "Membership"
-        url: /membership/
       - title: "Weather"
         url: /weather/
       - title: "Links"
