@@ -12,9 +12,8 @@ sidebar:
 <p>We now have some club t-shirts available at £25 each. These are made of a wicking polyester material and are suitable for rowing and other sports! To order, please message me via Spond with the quantity and size.</p>
 <img src="/docs/assets/images/tshirt.jpg" alt="T-shirt image">
 <h4>Sizing</h4>
-  Sizes are standard fit:
+  CHEST TO FIT:
 <ul>
-  <li>CHEST TO FIT:</li>
   <li>XS – 36”</li>
   <li>S – 38”</li>
   <li>M – 40”</li>
@@ -23,8 +22,7 @@ sidebar:
   <li>2XL – 46”</li>
   <li>3XL – 48”</li>
   <li>4XL – 50”</li>
-  <li>
   </ul>
 
-<p>And so on, up 2” per size, Smaller and bigger available</p>
+<p>Standard sizing with extra sizes, up 2” per size, smaller and bigger available</p>
   
