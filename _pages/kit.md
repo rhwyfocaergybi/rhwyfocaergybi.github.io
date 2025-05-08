@@ -10,7 +10,7 @@ sidebar:
 ---
 <h3>Club Kit</h3>
 <p>We now have some club t-shirts available at £25 each. These are made of a wicking polyester material and are suitable for rowing and other sports! To order, please message me via Spond with the quantity and size.</p>
-<p>The t-shirt is shown below</p>
+<p>The t-shirt is shown below and is of a wicking, polyester material.</p>
 <img src="/docs/assets/images/RhwyfoCaergybi.jpg" alt="T-shirt image">
 <h4>Sizing</h4>
   CHEST TO FIT:
