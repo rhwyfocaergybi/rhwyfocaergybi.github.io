@@ -29,12 +29,12 @@ sidebar:
 
 <p>We also have hoodies and heavy-weight organic cotton t-shirts with an embroidered logo and back print available.</p>
 <p>The vest is shown below and is of a wicking, polyester material.</p>
-<img src="/docs/assets/images/vest.png" alt="Vest image">
+<img src="/docs/assets/images/vest.png" alt="Vest image" width="300">
 <p>The hoodie is a cotton blend.</p>
-<img src="/docs/assets/images/hoodie_front.png" alt="Hoodie Front image">
-<img src="/docs/assets/images/hoodie_back.png" alt="Hoodie Back image">
+<img src="/docs/assets/images/hoodie_front.png" alt="Hoodie Front image" width="300">
+<img src="/docs/assets/images/hoodie_back.png" alt="Hoodie Back image" width="300">
 <p>The T-shirt is organic heavyweight cotton.</p>
-<img src="/docs/assets/images/cotton_front.png" alt="Cotton t-shirt Front image">
-<img src="/docs/assets/images/cotton_back.png" alt="Cotton t-shirt Back image">
+<img src="/docs/assets/images/cotton_front.png" alt="Cotton t-shirt Front image" width="300">
+<img src="/docs/assets/images/cotton_back.png" alt="Cotton t-shirt Back image" width="300">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPB1ERXZUTd9kkcW1-ELucF8EM6lUYCVrebIZM01SEBJ2mhQ/viewform?embedded=true" width="640" height="1581" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
   
