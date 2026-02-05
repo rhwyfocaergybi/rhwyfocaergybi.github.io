@@ -13,6 +13,8 @@ main:
     url: /location/
   - title: "Weather"
     url: /weather/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Links"
     url: /links/
 
@@ -40,6 +42,8 @@ sidenav:
         url: /location/
       - title: "Weather"
         url: /weather/
+      - title: "Gallery"
+        url: /gallery/
       - title: "Links"
         url: /links/
         
